@@ -99,7 +99,7 @@ function applyDomain(domain) {
     titleSubject.style.display = '';
     titleDomain.textContent = domain;
 
-    heroSub.textContent = 'You found one of our domain.';
+    heroSub.textContent = 'You found one of our domains.';
     heroDesc.textContent = "If you'd like to acquire it, make an inquiry.";
 
     inquiryLabel.textContent = 'Domain for acquisition';
